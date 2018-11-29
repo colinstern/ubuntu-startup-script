@@ -22,3 +22,6 @@ sudo apt-get install atom
 # Folder management
 mkdir repos
 rm -d Documents Music Pictures Public Templates Videos
+
+# Manually install:
+# Private Internet Access
